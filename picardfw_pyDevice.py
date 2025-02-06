@@ -1,3 +1,5 @@
+# tested using puython 3.12.8
+# Andrey Andreev (c) Ellison Institute aandreev@emila.org 2025
 from enum import Enum
 from typing import Annotated
 import time
